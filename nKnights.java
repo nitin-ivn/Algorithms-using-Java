@@ -1,3 +1,6 @@
+//this method uses backtracking and checking the positions of other knights. The isSafe method is for checking the
+//positions of other knights
+
 import java.util.Scanner;
 
 public class nKnights {

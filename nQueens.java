@@ -1,3 +1,7 @@
+//this method uses backtracking and checking the positions of other Queens. The isSafe method checks for diagonals
+//and straight lines emerging from the current postions and check if any queen is present there. If there is no queen
+//at all places and the position is safe. Then its marked as true.
+
 import java.util.Scanner;
 
 public class nQueens {
